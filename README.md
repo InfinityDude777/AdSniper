@@ -1,6 +1,6 @@
 # AdSniper
 
-  11/18/2020
+  11/18/2020 - 
 This is a program for blocking ads on desktop and Microsoft Store apps (IN PROGRESS).
 Currently nothing, starting with Spotify.
 Will probably go to Skype next and then browsers
